@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/AyushSahu45/Leetcode/tree/master/0577-employee-bonus) |
+| [1251-average-selling-price](https://github.com/AyushSahu45/Leetcode/tree/master/1251-average-selling-price) |
 ## Math
 |  |
 | ------- |
