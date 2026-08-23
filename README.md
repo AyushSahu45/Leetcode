@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/AyushSahu45/Leetcode/tree/master/0577-employee-bonus) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
