@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -28,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
