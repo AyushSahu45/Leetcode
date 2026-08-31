@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AyushSahu45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
