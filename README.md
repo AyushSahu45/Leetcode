@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSahu45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/AyushSahu45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/AyushSahu45/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
