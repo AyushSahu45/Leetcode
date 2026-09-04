@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/AyushSahu45/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AyushSahu45/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushSahu45/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
