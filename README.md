@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSahu45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/AyushSahu45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/AyushSahu45/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -83,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
