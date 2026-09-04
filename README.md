@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSahu45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/AyushSahu45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/AyushSahu45/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -53,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -71,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
