@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AyushSahu45/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSahu45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AyushSahu45/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/AyushSahu45/Leetcode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushSahu45/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Database
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AyushSahu45/Leetcode/tree/master/0724-find-pivot-index) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AyushSahu45/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
