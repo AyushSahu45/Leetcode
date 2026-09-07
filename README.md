@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushSahu45/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/AyushSahu45/Leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/AyushSahu45/Leetcode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushSahu45/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Database
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
+| [0443-string-compression](https://github.com/AyushSahu45/Leetcode/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
