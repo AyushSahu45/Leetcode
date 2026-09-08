@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AyushSahu45/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AyushSahu45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/AyushSahu45/Leetcode/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/AyushSahu45/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AyushSahu45/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/AyushSahu45/Leetcode/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/AyushSahu45/Leetcode/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AyushSahu45/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AyushSahu45/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Divide and Conquer
 |  |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AyushSahu45/Leetcode/tree/master/0046-permutations) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
