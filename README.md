@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AyushSahu45/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/AyushSahu45/Leetcode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushSahu45/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AyushSahu45/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Database
 |  |
 | ------- |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AyushSahu45/Leetcode/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/AyushSahu45/Leetcode/tree/master/1089-duplicate-zeros) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AyushSahu45/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AyushSahu45/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
