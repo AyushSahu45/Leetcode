@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AyushSahu45/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AyushSahu45/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/AyushSahu45/Leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/AyushSahu45/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushSahu45/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AyushSahu45/Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/AyushSahu45/Leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AyushSahu45/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AyushSahu45/Leetcode/tree/master/0229-majority-element-ii) |
+| [0561-array-partition](https://github.com/AyushSahu45/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/AyushSahu45/Leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushSahu45/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/AyushSahu45/Leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AyushSahu45/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Divide and Conquer
