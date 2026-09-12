@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushSahu45/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AyushSahu45/Leetcode/tree/master/0231-power-of-two) |
+| [0728-self-dividing-numbers](https://github.com/AyushSahu45/Leetcode/tree/master/0728-self-dividing-numbers) |
 ## Matrix
 |  |
 | ------- |
