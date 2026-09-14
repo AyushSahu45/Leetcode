@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/AyushSahu45/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/AyushSahu45/Leetcode/tree/master/0577-employee-bonus) |
+| [0596-classes-with-at-least-5-students](https://github.com/AyushSahu45/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/AyushSahu45/Leetcode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AyushSahu45/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/AyushSahu45/Leetcode/tree/master/1193-monthly-transactions-i) |
