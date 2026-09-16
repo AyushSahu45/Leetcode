@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/AyushSahu45/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/AyushSahu45/Leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/AyushSahu45/Leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/AyushSahu45/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/AyushSahu45/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AyushSahu45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/AyushSahu45/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyushSahu45/Leetcode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/AyushSahu45/Leetcode/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AyushSahu45/Leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/AyushSahu45/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
